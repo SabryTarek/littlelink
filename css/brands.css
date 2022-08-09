@@ -272,6 +272,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* CV */
+.button.button-cv {
+  color: #ffffff;
+  background-color: #000000;
+}
+.button.button-cv:hover,
+.button.button-cv:focus {
+  filter: brightness(90%);
+}
+
 /* LinkedIn */
 .button.button-linked {
   color: #ffffff;

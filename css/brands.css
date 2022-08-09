@@ -274,8 +274,8 @@ button:hover,
 
 /* CV */
 .button.button-cv {
-  color: #ffffff;
-  background-color: #000000;
+  color: #000000;
+  background-color: #ffffff;
 }
 .button.button-cv:hover,
 .button.button-cv:focus {
